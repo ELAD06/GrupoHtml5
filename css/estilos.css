@@ -1,0 +1,12 @@
+.bx-wrapper {
+	box-shadow: none;
+}
+
+.bx-wrapper .bx-pager,.bx-wrapper .bx-pager-item {
+	background-color: white;
+}
+
+.encabezado {
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
